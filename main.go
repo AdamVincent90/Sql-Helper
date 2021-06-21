@@ -1,4 +1,4 @@
-package avsql
+package sqlhelper
 
 import (
 	"database/sql"

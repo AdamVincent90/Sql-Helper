@@ -1,4 +1,4 @@
-module github.com/adamvincent90/createSql
+module github.com/adamvincent90/Sql-Helper
 
 go 1.16
 
